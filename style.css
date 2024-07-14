@@ -190,6 +190,11 @@
     gap: 1.3rem;
 }
 
+.sec2 .cont2::-webkit-scrollbar {
+    width: 12px; /* Width of the vertical scrollbar */
+    height: 12px; 
+}
+
 .sec2 .cont2 img {
     object-fit: cover;
 }
